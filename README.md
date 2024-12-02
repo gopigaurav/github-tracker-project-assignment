@@ -57,3 +57,9 @@ Ensure you have the following installed:
 ```bash
 git clone https://github.com/gopigaurav/your-repo-name.git
 cd your-repo-name
+
+cd client
+npm run start
+
+cd backedn
+npm run dev
