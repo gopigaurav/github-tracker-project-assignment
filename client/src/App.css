@@ -1,0 +1,21 @@
+.app {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.repo-card {
+  background: #f9f9f9;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.repo-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+button {
+  margin-left: 10px;
+}
